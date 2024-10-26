@@ -1,0 +1,21 @@
+body{
+        font-size: large;
+        font-style: italic;
+        background-color: rgb(221, 221, 37);
+
+}
+h1{
+        color: black;
+        background-color: pink;
+        box-shadow:azure;
+        font-weight: lighter;
+        text-align:center;
+}
+img{
+        height: auto;
+        width: auto;
+}
+div{
+        background-color: aqua;
+        text-align: justify;
+}
